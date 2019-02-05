@@ -1,3 +1,3 @@
-<img src="icon[1].png" align="right" />
+<img src="icon.png" align="right" />
 
 # test
