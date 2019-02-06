@@ -24,8 +24,17 @@ These instructions will get you a copy of the project up and running on your loc
     
 - Step 2:- **Build the source code** <br>
   - Import the project into eclipse.
-  - Build ws-client module first
+  - Build ws-client module
     - From eclipse
     
     - From command line
+    
+- Step 3:- **Deploy to local JBoss EAP 6.4 server** <br>
+  ```java
+    class Test {
+      public void m1() {
+      
+      }
+    }
+  ```
 
